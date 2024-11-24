@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Backpack"
 include(":app")
- 
+include(":core:network")
+include(":core:test")
+include(":core:utilities")
